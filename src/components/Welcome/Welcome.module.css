@@ -1,0 +1,11 @@
+.welcome {
+    width: 60%;
+    height: 60%;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Sansita Swashed', cursive;
+    color: rgb(20, 95, 20);
+    padding-top: 100px;
+}

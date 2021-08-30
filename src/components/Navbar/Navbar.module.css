@@ -1,0 +1,40 @@
+.navbar {
+    grid-area: n;
+    background-color: black;
+    color: white;
+    border-radius: 0px 30px 30px 0px;
+    border-right: 2px solid rgb(179, 167, 167);
+}
+
+.item {
+    padding-top: 30px;
+    font-size: 20px;
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+
+.item a:hover{
+    color: rgb(172, 128, 48);
+    cursor: pointer;
+    font-size: 23px;
+}
+
+.item a {
+    text-decoration: none;
+    color: rgb(191, 255, 191);
+    transition-property: color, font-size;
+    transition-duration: 0.4s;
+}
+
+.item a.activeLink {
+    color: gold;
+    font-size: 27px;
+    text-shadow: 2px 2px 2px rgb(204, 189, 139);
+}
+
+.img img{
+    width: 100px;
+    padding-top: 270px;
+    position: fixed;
+    left: 50px;
+}

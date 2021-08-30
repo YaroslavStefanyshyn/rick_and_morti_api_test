@@ -1,0 +1,23 @@
+.header {
+    grid-area: h;
+    background-color: rgb(0, 0, 0);
+    border-radius: 0px 0px  35px 0px;
+    border-bottom: 2px solid rgb(179, 167, 167);
+}
+
+.img img {
+    width: 100px;
+    border-radius: 50px;
+    padding-top: 8px;
+}
+
+.img{
+    font-size: 50px;
+    font-family: 'Sansita Swashed', cursive;
+    padding-bottom: 10px;text-decoration: none;
+}
+
+.img a{
+    text-decoration: none;
+    color: rgb(191, 255, 191);
+}

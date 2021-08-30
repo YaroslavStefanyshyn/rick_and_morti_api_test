@@ -1,0 +1,46 @@
+.epis {
+    padding-right: 15px;
+}
+
+.selectedP {
+    font-size: 20px;
+    font-weight: bold;  
+}
+
+.headTbl {
+    background-color: black;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px 20px 0 0;
+    border: 1px solid gray;
+}
+
+.nameHdTbl1 {
+    padding-right: 500px;
+    color: chartreuse;
+    margin-top: 10px;
+}
+.nameHdTbl2 {
+    padding-right: 320px;
+    padding-left: 170px;
+    color: chartreuse;
+}
+.nameHdTbl3 {
+    padding-left: 111px;
+    color: chartreuse;
+}
+
+.paginator {
+    padding-left: 450px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.searchField {
+    padding-bottom: 20px;
+}
+
+.form {
+    padding-bottom: 20px;
+}

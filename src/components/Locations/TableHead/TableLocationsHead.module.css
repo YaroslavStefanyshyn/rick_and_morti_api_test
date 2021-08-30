@@ -1,0 +1,19 @@
+.table {
+    width: 100%;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif, Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(34, 49, 34);
+    color: greenyellow;
+    height: 50px;
+    border-radius: 15px 15px 0 0 ;
+}
+
+.th1 {
+    padding-right: 500px;
+}
+.th2 {
+    padding-right: 200px;padding-left: 150px;
+}
+.th3 {
+    padding-left: 180px;
+}

@@ -1,0 +1,11 @@
+.characters {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.paginator {
+    padding-left: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
